@@ -16,3 +16,6 @@ If you want to contribute to this list, send a pull request, or contact me [@ytt
 | BigCloneBench | BigCloneBench is a clone detection benchmark of known clones in the IJaDataset source repository.                                              | Clone Dectetion                      | Java              | [link](https://github.com/clonebench/BigCloneBench)                          |
 | CodeForces    | Mining programming competition archives from Codeforces                                                                                        | Code Classification                  | Unknown           | [link](https://sites.google.com/site/miningprogcodeforces/home/dataset)      |
 | CodeChef      | Program verdicts classification                                                                                                                | Code Classification                  | Java              | [link](https://www.kaggle.com/arjoonn/codechef-competitive-programming)      |
+
+## Resources
+- [[Survey] Machine Learning for Big Code and Naturalness](https://ml4code.github.io/papers.html)
