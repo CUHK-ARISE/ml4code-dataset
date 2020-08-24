@@ -18,6 +18,7 @@ If you want to contribute to this list, send a pull request, or contact me [@ytt
 | CodeChef      | Program classification                                       | Code Classification                  | Java              | [link](https://www.kaggle.com/arjoonn/codechef-competitive-programming) |
 | Devign        | Dataset used in the NeurIPS paper *Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks* | Vulnerability Identification         | C++               | [link](https://sites.google.com/view/devign)                 |
 | Draper        | The dataset consists of the source code of 1.27 million functions mined from open source software, labelled by static analysis for potential vulnerabilities. For more details on the dataset and benchmark results  | Vulnerability Identification         | C               | [link](https://osf.io/d45bw/)                 |
+| NVD/SARD | Semantics-based Vulnerability Candidate (SeVC) dataset. | Vulnerability Detection | C/C++ | [link](https://github.com/SySeVR/SySeVR) |
 
 ## Resources
 - [[Survey] Machine Learning for Big Code and Naturalness](https://ml4code.github.io/papers.html)
