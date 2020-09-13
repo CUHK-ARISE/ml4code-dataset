@@ -21,6 +21,8 @@ If you want to contribute to this list, send a pull request, or contact me [@ytt
 | NVD/SARD | Semantics-based Vulnerability Candidate (SeVC) dataset. | Vulnerability Detection | C/C++ | [link](https://github.com/SySeVR/SySeVR) |
 | Seahymn | Vulnerable functions from 9 open-source software projects | Vulnerability Detection | C | [link](https://github.com/Seahymn2019/Function-level-Vulnerability-Dataset) |
 | TypeWriter | Dataset used in the FSE20 paper *TypeWriter: Neural Type Prediction with Search-based Validation* | Type Inference | Python | [link](http://software-lab.org/projects/TypeWriter/data.tar.gz) |
+| DeepTyper | Dataset used in the FSE18 paper *Deep Learning Type Inference* | Type Inference | JavaScript | [link](https://github.com/DeepTyper/DeepTyper/blob/master/data/repo-SHAs.txt) |
+| Typlus | Dataset used in the PLDI20 paper *Typilus: Neural Type Hints* | Type Inference | Python | [link](https://github.com/typilus/typilus/blob/master/src/data_preparation/metadata/popularLibs.txt) |
 
 ## Resources
 - [[Survey] Machine Learning for Big Code and Naturalness](https://ml4code.github.io/papers.html)
