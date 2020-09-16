@@ -2,15 +2,15 @@
 
 A collection of datasets (and other resources) for [big code analysis](https://ml4code.github.io/papers.html).
 
-If you want to contribute to this list, send a pull request, or contact me [@yttty](https://github.com/yttty).
+If you want to contribute to this list, please send a pull request.
 
 ## Datasets
 
 | Name          | Description                                                  | Tag                                  | Language          | Link                                                         |
 | ------------- | ------------------------------------------------------------ | ------------------------------------ | ----------------- | ------------------------------------------------------------ |
 | CodeSearchNet | Dataset and benchmarks for code retrieval using natural language | Code Retrieval, NLP                  | Multiple (Python) | [link](https://github.com/github/CodeSearchNet)              |
-| PY150         | 150k Python programs and corresponding abstract syntax trees                                | General                              | Python            | [link](https://www.sri.inf.ethz.ch/py150)                    |
-| OJ            | Code from a Online Judge System, used in the ICSE paper _A Novel Neural Source Code Representation based on Abstract Syntax Tree_ | Code Classification, Clone Dectetion | C                 | [link](https://github.com/zhangj111/astnn)                   |
+| PY150         | 150k Python programs and corresponding abstract syntax trees, released by OOPSLA'16 _Probabilistic Model for Code with Decision Trees_                                | General                              | Python            | [link](https://www.sri.inf.ethz.ch/py150)                    |
+| OJ            | Code from a Online Judge System, released by ICSE'19 _A Novel Neural Source Code Representation based on Abstract Syntax Tree_ | Code Classification, Clone Dectetion | C                 | [link](https://github.com/zhangj111/astnn)                   |
 | code2seq      | Datset released by the ICLR paper _code2vec_, _code2seq_, etc.   | Code Completion                      | Java, C#          | [link](https://github.com/tech-srl/code2seq#datasets)        |
 | BigCloneBench | BigCloneBench is a clone detection benchmark of known clones in the dataset source repository. | Clone Dectetion                      | Java              | [link](https://github.com/clonebench/BigCloneBench)          |
 | CodeForces    | Mining programming competition archives from Codeforces      | Code Classification                  | Unknown           | [link](https://sites.google.com/site/miningprogcodeforces/home/dataset) |
