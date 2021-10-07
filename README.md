@@ -23,6 +23,7 @@ If you want to contribute to this list, please send a pull request.
 | Seahymn | Vulnerable functions from 9 open-source software projects | Vulnerability Detection | C | [link](https://github.com/Seahymn2019/Function-level-Vulnerability-Dataset) |
 | Big-Vul | A C/C++ Code Vulnerability Dataset with Code Changes and CVE Summaries | Vulnerability Detection | C/C++ | [link](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset) |
 | RAISE19Ferenc | Dataset released by RAISE'19 *Challenging Machine Learning Algorithms in Predicting Vulnerable JavaScript Functions* | Vulnerability Detection | JavaScript | [link](http://www.inf.u-szeged.hu/~ferenc/papers/JSVulnerabilityDataSet/) |
+| D2A | Differential Analysis Dataset released by ICSE-SEIP'21 paper *D2A: A Dataset Built for AI-Based Vulnerability Detection Methods Using Differential Analysis* | Vulnerability Detection | C/C++ | [link](https://github.com/IBM/D2A) |
 | TypeWriter | Dataset released by FSE'20 *TypeWriter: Neural Type Prediction with Search-based Validation* | Type Inference | Python | [link](http://software-lab.org/projects/TypeWriter/data.tar.gz) |
 | DeepTyper | Dataset released by FSE'18 *Deep Learning Type Inference* | Type Inference | JavaScript | [link](https://github.com/DeepTyper/DeepTyper/blob/master/data/repo-SHAs.txt) |
 | Typlus | Dataset released by PLDI'20 paper *Typilus: Neural Type Hints* | Type Inference | Python | [link](https://github.com/typilus/typilus/blob/master/src/data_preparation/metadata/popularLibs.txt) |
